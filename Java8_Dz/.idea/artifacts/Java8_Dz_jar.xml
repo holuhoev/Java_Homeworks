@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java8_Dz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java8_Dz_jar</output-path>
+    <root id="archive" name="Java8_Dz.jar">
+      <element id="module-output" name="Java8_Dz" />
+    </root>
+  </artifact>
+</component>
